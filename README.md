@@ -6,7 +6,7 @@ Hi! I'm M4tis, one of the main devs of the team, this game is currently in a bet
 
 __This project was made of:__
 
-1. KazzeTheRandom (main planner and animator)
+1. KazzeTheRandom (main planner, animator and director)
 2. M4tisPto (main programer, modeler, manager and sound designer)
 3. MetalBn (artist and animator)
 4. Naoxstudio (artist and animator)

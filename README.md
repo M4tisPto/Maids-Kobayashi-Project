@@ -14,9 +14,6 @@ __This project was made of:__
 6. Huantolu (main music composition?)
 7. mutim_ (he's just there)
 
-
-
-
 ## __What is Maid's Kobayoshi?__
 
 If you like:

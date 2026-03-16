@@ -10,15 +10,17 @@ __This project was made of:__
 2. M4tisPto (main programer, modeler, manager and sound designer)
 3. MetalBn (artist and animator)
 4. Naoxstudio (artist and animator)
-5. tezk0 (...sort of)
+5. tezk0 (...sort of, play tester and bug tester?)
 6. Huantolu (main music composition?)
-7. mutim_ (he's just there)
+7. mutim_ (he's just there, bug tester maybe)
 
 ## __What is Maid's Kobayoshi?__
 
 If you like:
 - Ultrakill
 - Kirby
+- Cuphead
+- Pizza Tower
 
 *Then this game is for you!*
 

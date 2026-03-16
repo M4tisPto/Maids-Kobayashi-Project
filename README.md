@@ -19,7 +19,7 @@ __This project was made of:__
 If you like:
 - Ultrakill
 - Kirby
-*Then this game is for you!*
+*Then this game is for you!* pp
 
 Maid's Kobayoshi is very inspired from the Kirby series, mostly on the main mechanics on Kirby's movesment, with an artstyle based on the DK Country series or 
 

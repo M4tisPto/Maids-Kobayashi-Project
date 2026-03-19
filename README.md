@@ -20,7 +20,8 @@ If you like:
 - Ultrakill
 - Kirby's games (That follow on super star footsteps)
 - Shovel Knight
-- Ori and the blind forest
+- Ori and the blind forest (the platforming)
+- Touhou Luna Nights (The maid)
   
 
 *Then this game is for you!* (probably...)
